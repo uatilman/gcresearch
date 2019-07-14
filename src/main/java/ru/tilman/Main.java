@@ -22,7 +22,7 @@ import java.util.List;
  * http://kharkovitcourses.blogspot.com/2012/08/memory-permgen.html,
  * Golovach Courses: https://www.youtube.com/channel/UCuIctN7x71qam9K_ZxS1W2A
  */
-// TODO: 04.07.19 добавить на гит без комментариев в pom.xml, добавить запуск через параметры VM в pom.xml, добавить readme.md
+
 public class Main {
 
     private static List objects = new ArrayList();
